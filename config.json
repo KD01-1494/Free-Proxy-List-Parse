@@ -1,0 +1,9 @@
+{
+	"proxy": {
+		"ip": "",
+		"port": ""
+	},
+
+	"parse_delay_seconds": 60,
+	"output_file_path": "./proxy.txt"
+}
